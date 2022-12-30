@@ -1,7 +1,7 @@
 # py-quadratic-function-graph
 Simple python terminal program for drawing quadratic and affine functions
 
-f(x) = x²/50 + x - 25
+f(x) = x²/50 + 0x - 25
 ![image](https://user-images.githubusercontent.com/108158031/209414071-bc326539-d46d-4fb5-9959-6b61dec48029.png)
 
 f(x) = x
